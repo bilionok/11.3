@@ -1,0 +1,12 @@
+﻿  UnitTest1.cpp
+C:\Users\Arsen\source\repos\11_3\11_3\11_3.cpp(202,65): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Arsen\source\repos\11_3\11_3\11_3.cpp(218,68): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Arsen\source\repos\11_3\11_3\11_3.cpp(234,71): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Arsen\source\repos\11_3\11_3\11_3.cpp(250,68): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Arsen\source\repos\11_3\11_3\11_3.cpp(266,68): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Arsen\source\repos\11_3\11_3\11_3.cpp(431,11): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Arsen\source\repos\11_3\11_3\11_3.cpp(472,11): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Arsen\source\repos\11_3\11_3\11_3.cpp(531,11): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Arsen\source\repos\11_3\UnitTest1\UnitTest1.cpp(18,22): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+     Создается библиотека C:\Users\Arsen\source\repos\11_3\Debug\UnitTest1.lib и объект C:\Users\Arsen\source\repos\11_3\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\Arsen\source\repos\11_3\Debug\UnitTest1.dll
